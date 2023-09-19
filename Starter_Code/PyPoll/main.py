@@ -9,7 +9,7 @@ votecount_list = []
 candidate_list = []
 per_list = []
 
-#Read the election_data.csv file from python-challenge/Starter_code_PyPoll
+#Read the election_data.csv file from python-challenge/Starter_code/PyPoll
 csvpath = os.path.join('Resources', 'election_data.csv')
 
 with open(csvpath) as csvfile:
