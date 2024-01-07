@@ -1,4 +1,3 @@
-Python-challenge
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -12,6 +11,10 @@ Python-challenge
 ## About The Project
 
 First Project using python. 
+
+<p>The goal of this project was to create 2 python scripts, one of which is to analyze financial data and the second one
+to analyze poll counts for a rural town. 
+</p>
 
 ### Built With
 
@@ -39,7 +42,7 @@ First Project using python.
     - [x] The greatest decrease in profits (date and amount) over the entire period
 
 #### PyPoll
-- [x] create a Python script that analyzes the votes and calculates each of the following values:
+- [x] Create a Python script that analyzes the votes and calculates each of the following values:
 
     - [x] The total number of votes cast
 
